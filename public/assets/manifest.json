@@ -1,0 +1,8 @@
+{
+  "assets/app.css": "http://localhost:8080/assets/app.css",
+  "assets/app.js": "http://localhost:8080/assets/app.js",
+  "assets/resources_js_Pages_Discover_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Discover_jsx.js",
+  "assets/resources_js_Pages_Index_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Index_jsx.js",
+  "assets/vendors-node_modules_react-icons_fa_index_esm_js-node_modules_chakra-ui_button_dist_chunk-NAA-6ccf1f.js": "http://localhost:8080/assets/vendors-node_modules_react-icons_fa_index_esm_js-node_modules_chakra-ui_button_dist_chunk-NAA-6ccf1f.js",
+  "assets/vendors-node_modules_chakra-ui_card_dist_chunk-KKEJMMX3_mjs-node_modules_chakra-ui_card_dist_-2296ec.js": "http://localhost:8080/assets/vendors-node_modules_chakra-ui_card_dist_chunk-KKEJMMX3_mjs-node_modules_chakra-ui_card_dist_-2296ec.js"
+}
