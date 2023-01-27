@@ -22,7 +22,7 @@ export default Env.rules({
   CACHE_VIEWS: Env.schema.boolean(),
   SESSION_DRIVER: Env.schema.string(),
   DRIVE_DISK: Env.schema.enum(['local'] as const),
-  NODE_ENV: Env.schema.enum(['development', 'production', 'test'] as const),
+  NODE_ENV: Env.schema.enum.optional(['development', 'production', 'test'] as const),
   DB_CONNECTION: Env.schema.string(),
 
   MYSQL_HOST: Env.schema.string({ format: 'host' }),
